@@ -1,0 +1,1 @@
+index="astronaut_health" | stats count as high_alerts by Mission_Phase

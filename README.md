@@ -1,4 +1,4 @@
-# LIFELINE: Astronaut Health Telemetry Monitoring System
+# LIFELINE: Artemis II Astronaut Health Telemetry Monitoring System
 ## Overview
 This project simulates a NASA-style mission control health monitoring system for astronauts using Splunk.
 It demonstrates how biometric and performance data could be ingested, analyzed, and visualized to support crew health and safety during space missions.

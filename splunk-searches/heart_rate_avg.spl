@@ -1,0 +1,1 @@
+index="astronaut_health" | stats avg(Heart_Rate) as avg_heart_rate by Astronaut_ID

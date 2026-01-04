@@ -1,0 +1,1 @@
+index="astronaut_health" | timechart avg(Stress_Level) by Astronaut_ID

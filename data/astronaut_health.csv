@@ -1,0 +1,10 @@
+Timestamp	Astronaut_ID	Heart_Rate	Oxy_Level	Stress_Level	Sleep_Hours	Exercise_Minutes	Mission_Phase	Alert_Flag
+1/1/2025 8:00	A1	78	98	2	7	30	Exercise	NORMAL
+1/1/2025 8:05	A1	120	93	4	7	35	Exercise	HIGH
+1/1/2025 8:10	A1	115	95	3	7	40	Exercise	WATCH
+1/1/2025 8:00	A2	82	99	1	8	20	Sleep	NORMAL
+1/1/2025 8:05	A2	88	97	2	8	22	Wake	NORMAL
+1/1/2025 8:10	A2	95	96	3	8	25	Exercise	WATCH
+1/1/2025 8:00	A3	90	94	3	5	10	Exercise	WATCH
+1/1/2025 8:05	A3	130	92	5	5	15	Exercise	HIGH
+1/1/2025 8:10	A3	125	93	4	5	15	Exercise	HIGH

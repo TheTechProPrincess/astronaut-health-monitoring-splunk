@@ -1,0 +1,1 @@
+index="astronauts_health" | eval Safe_Oxy = if(Oxy_Level >= 95, 1, 0) | stats avg(Safe_Oxy) as safe_oxygen_rate | eval safe_oxygen_percent = round(safe_oxygen_rate * 100, 2) | fields safe_oxygen_percent
